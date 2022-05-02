@@ -1,6 +1,6 @@
 Oi gente, sou a Jennifer! 
 
-- 💻 Atualmente, sou estagiária em uma empresa de tecnologia no setor NOC.
+- 💻 
 - ✨ Estudando HTML, CSS e Java Script
 - 📫 Contate-me : jennifer.sousa2801@gmail.com
 - 😄 Pronouns: ela/dela
