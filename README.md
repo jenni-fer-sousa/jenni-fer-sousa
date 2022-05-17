@@ -1,7 +1,6 @@
 Oi gente, sou a Jennifer! 
-
-- 💻 
-- ✨ Estudando HTML, CSS e Java Script
+ 
+- ✨ Estudando HTML5, CSS3 e Javascript
 - 📫 Contate-me : jennifer.sousa2801@gmail.com
 - 😄 Pronouns: ela/dela
 
